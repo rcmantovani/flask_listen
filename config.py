@@ -19,4 +19,4 @@ class Config(object):
     })
 
   geo_url = "http://api.geonames.org/countrySubdivisionJSON"
-  geo_user = "garbados"
+  geo_user = "rmantovani"
